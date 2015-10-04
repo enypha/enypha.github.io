@@ -13,7 +13,7 @@ collections:
   docs:
     output: true
 
-name: Jekyll • Simple, blog-aware, static sites
+name: Jekyl • Simple, blog-aware, static sites
 description: Transform your plain text into static websites and blogs
 url: http://enypha.github.io
 
