@@ -1,7 +1,6 @@
 ---
-layout: docs
-title: Welcome
-permalink: /docs/home/
+layout: post
+title: page
 ---
 
 This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such
